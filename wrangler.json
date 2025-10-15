@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "iptvserver",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bbf2203e-3426-4b42-b3ff-7c0475c7b960",
+      "database_name": "DBD1Database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
